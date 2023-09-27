@@ -740,6 +740,16 @@ hr {
     background-size: 125%;
 }
 
+
+#experience {
+    background: linear-gradient(
+            rgba(100, 98, 98, 0.78),
+            rgba(250, 250, 250, 0.78)
+        ),
+        url(../images/footerbackground.png);
+    background-size: 125%;
+}
+
 a {
     color: white;
     transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
